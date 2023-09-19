@@ -8,7 +8,7 @@ import categoryRoutes from "./routes/categoryRoutes.js";
 import pproductRoutes from "./routes/pproductRoutes.js"
 import cors from "cors";
 import path from "path";
-import { filURLToPath } from 'url';
+import { fileURLToPath } from 'url';
 
 
 
